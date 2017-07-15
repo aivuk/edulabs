@@ -1,7 +1,7 @@
 ---
-_id: 870f0960-6971-11e7-a216-afd72e79e183
+_id: cd372090-69a2-11e7-b38e-19068d34ee74
 title: finally a right conf
-date: '2017-07-15T15:23:17.887Z'
+date: '2017-07-15T21:16:00.940Z'
 slug: finally-a-right-conf
 ---
-update
+upd
